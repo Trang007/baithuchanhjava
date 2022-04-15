@@ -18,6 +18,6 @@ public class hinhtru extends hinhtron{
         thetich = dientich * chieucao;
     }
     private void extracted() {
-        tinhdientich(chieucao);
+        tinhdientich();
     }
 }

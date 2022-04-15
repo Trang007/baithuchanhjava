@@ -17,7 +17,7 @@ public class hinhtron extends hinhhoc {
     public void tinhchuvi(){
         chuvi = 2 * PI * bankinh;
     }
-    public void tinhdientich(float dientich){
+    public void tinhdientich(){
         dientich = PI * bankinh * bankinh;
     }
 }

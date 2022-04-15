@@ -7,36 +7,36 @@ public class mainclass{
 
 
     public static void main(String[] args){
-        Hinhtron.hinhtron = new hinhtron();
-        Hinhtron.xuatten();
-        Hinhtron.nhapbankinh();
-        Hinhtron.tinhchuvi();
-        Hinhtron.tinhdientich();
-        Hinhtron.inchuvi();
-        Hinhtron.indientich();
+        hinhtron hinhtron = new hinhtron();
+        hinhtron. xuatten();
+        hinhtron. nhapbankinh();
+        hinhtron .tinhchuvi();
+        hinhtron.tinhdientich();
+        hinhtron.inchuvi();
+        hinhtron.indientich();
 
-        Hinhtru.hinhtru = new hinhtru();
-        Hinhtru.xuatten();
-        Hinhtru.nhapchieucao();
-        Hinhtru.tinhthetich();
-        Hinhtru.inthetich();
+        hinhtru hinhtru = new hinhtru();
+        hinhtru.xuatten();
+        hinhtru.nhapchieucao();
+        hinhtru.tinhthetich();
+        hinhtru.inthetich();
 
-        Hinhchunhat.hinhchunhat =new hinhchunhat();
-        Hinhchunhat.xuatten();
-        Hinhchunhat.nhapchieudai();
-        Hinhchunhat.nhapchieurong();
-        Hinhchunhat.tinhchuvi();
-        Hinhchunhat.tinhdientich();
-        Hinhchunhat.inchuvi();
-        Hinhchunhat.indientich();
+        hinhchunhat hinhchunhat =new hinhchunhat();
+        hinhchunhat.xuatten();
+        hinhchunhat.nhapChieudai();
+        hinhchunhat.nhapChieurong();
+        hinhchunhat.tinhchuvi();
+        hinhchunhat.tinhdientich();
+        hinhchunhat.inchuvi();
+        hinhchunhat.indientich();
         
-        Hinhvuong.hinhvuong = new hinhvuong();
-        Hinhvuong.xuatten();
-        Hinhvuong.nhapcanh();
-        Hinhvuong.tinhchuvi();
-        Hinhvuong.tinhdientich();
-        Hinhvuong.inchuvi();
-        Hinhvuong.indientich();
+        hinhvuong hinhvuong = new hinhvuong();
+        hinhvuong.xuatten();
+        hinhvuong.nhapcanh();
+        hinhvuong.tinhchuvi();
+        hinhvuong.tinhdientich();
+        hinhvuong.inchuvi();
+        hinhvuong.indientich();
     }
 
 
